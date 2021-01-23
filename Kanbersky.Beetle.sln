@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{97D3C001-7AD6-42CD-8C3E-F9EE2ABED416}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Composes", "Composes", "{017B4ADE-5C44-4D5E-9CBC-16D7555E58DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbersky.Beetle.Core", "Kanbersky.Beetle.Core\Kanbersky.Beetle.Core.csproj", "{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7819EE1D-7BAB-4D82-8E84-68802A3FA58F}
+	EndGlobalSection
+EndGlobal
