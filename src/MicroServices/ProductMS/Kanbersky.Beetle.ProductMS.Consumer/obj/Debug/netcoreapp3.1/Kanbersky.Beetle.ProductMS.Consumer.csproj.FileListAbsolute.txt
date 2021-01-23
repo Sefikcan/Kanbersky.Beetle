@@ -1,0 +1,13 @@
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.exe
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.deps.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.runtimeconfig.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.runtimeconfig.dev.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.genruntimeconfig.cache

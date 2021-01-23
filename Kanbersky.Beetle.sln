@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Composes", "Composes", "{01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbersky.Beetle.Core", "Kanbersky.Beetle.Core\Kanbersky.Beetle.Core.csproj", "{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroServices", "MicroServices", "{B0CCF22A-A1A2-4D5E-A894-70C65E090D94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductMS", "ProductMS", "{8094D54C-89FF-475B-9BB6-DF1EE55583B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbersky.Beetle.ProductMS.Consumer", "src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\Kanbersky.Beetle.ProductMS.Consumer.csproj", "{DEC781CC-6280-4643-83D0-B93D44136710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,9 +25,18 @@ Global
 		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874B941F-6E00-4DD3-AD8A-285CAB9A58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC781CC-6280-4643-83D0-B93D44136710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC781CC-6280-4643-83D0-B93D44136710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC781CC-6280-4643-83D0-B93D44136710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC781CC-6280-4643-83D0-B93D44136710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0CCF22A-A1A2-4D5E-A894-70C65E090D94} = {97D3C001-7AD6-42CD-8C3E-F9EE2ABED416}
+		{8094D54C-89FF-475B-9BB6-DF1EE55583B8} = {B0CCF22A-A1A2-4D5E-A894-70C65E090D94}
+		{DEC781CC-6280-4643-83D0-B93D44136710} = {8094D54C-89FF-475B-9BB6-DF1EE55583B8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7819EE1D-7BAB-4D82-8E84-68802A3FA58F}
