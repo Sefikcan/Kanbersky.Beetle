@@ -1,0 +1,15 @@
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.deps.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Infrastructure.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Infrastructure.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Services.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Services\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.xml

@@ -4,14 +4,14 @@
     "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj": {
+    "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj",
-        "projectName": "Kanbersky.Beetle.ProductMS.Consumer",
-        "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj",
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj",
+        "projectName": "Kanbersky.Beetle.Core",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\obj\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,32 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,6 +76,140 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Domain.Shared\\Kanbersky.Beetle.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Domain.Shared\\Kanbersky.Beetle.Domain.Shared.csproj",
+        "projectName": "Kanbersky.Beetle.Domain.Shared",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Domain.Shared\\Kanbersky.Beetle.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj",
+        "projectName": "Kanbersky.Beetle.ProductMS.Consumer",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\Kanbersky.Beetle.ProductMS.Consumer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\src\\MicroServices\\ProductMS\\Kanbersky.Beetle.ProductMS.Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Core\\Kanbersky.Beetle.Core.csproj"
+              },
+              "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Domain.Shared\\Kanbersky.Beetle.Domain.Shared.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Microservices\\Kanbersky.Beetle\\Kanbersky.Beetle.Domain.Shared\\Kanbersky.Beetle.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

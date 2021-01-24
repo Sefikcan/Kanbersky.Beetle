@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kanbersky.Beetle.ProductMS.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Kanbersky.Beetle.ProductMS.Api.Controllers.ProductsController.#ctor(MediatR.IMediator)">
+            <summary>
+            ctor
+            </summary>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:Kanbersky.Beetle.ProductMS.Api.Controllers.ProductsController.CreateProduct(Kanbersky.Beetle.ProductMS.Services.DTO.Request.CreateProductRequestModel)">
+            <summary>
+            Create Product Operations
+            </summary>
+            <param name="createProductRequestModel"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
