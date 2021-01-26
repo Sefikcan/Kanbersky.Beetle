@@ -15,11 +15,12 @@ namespace Kanbersky.Beetle.Infrastructure.EventSourcing.Concrete
 
         public Aggregate() { }
 
-        private readonly IList<object> UncommittedEvents = new List<object>();
+        protected IList<object> UncommittedEvents = new List<object>();
 
-        protected void Apply(object @event)
+        public IList<object> Apply(object @event)
         {
             UncommittedEvents.Add(@event);
+            return UncommittedEvents;
         }
 
         public IEnumerable<object> DequeueUncommittedEvents()

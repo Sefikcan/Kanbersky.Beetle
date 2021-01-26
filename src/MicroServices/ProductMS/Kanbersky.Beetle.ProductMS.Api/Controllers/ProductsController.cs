@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Kanbersky.Beetle.ProductMS.Api.Controllers
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [Route("api/products")]
     [ApiController]
     public class ProductsController : ControllerBase

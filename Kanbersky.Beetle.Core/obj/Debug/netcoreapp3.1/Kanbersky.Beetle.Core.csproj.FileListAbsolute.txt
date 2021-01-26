@@ -6,6 +6,5 @@ D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\obj\
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.csproj.CoreCompileInputs.cache
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.dll
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.pdb
-D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.csprojAssemblyReference.cache
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.xml
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\Kanbersky.Beetle.Core\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.xml

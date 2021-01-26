@@ -18,7 +18,6 @@ D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductM
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Api.dll
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Api.pdb
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Api.genruntimeconfig.cache
-D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\bin\Debug\netcoreapp3.1\Automatonymous.dll
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\bin\Debug\netcoreapp3.1\DnsClient.dll
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
@@ -72,3 +71,4 @@ D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductM
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Api.xml
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Api.xml
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.xml
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

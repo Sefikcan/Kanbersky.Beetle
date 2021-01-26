@@ -20,14 +20,13 @@ namespace Kanbersky.Beetle.ProductMS.Services.Aggregate
                 Quantity = createProductRequestModel.Quantity
             };
 
-            Apply(@event);
-
             return new ProductAggregate
             {
                 CreateProductRequestModel = createProductRequestModel,
                 CreatedDate = @event.CreatedDate,
                 Id = @event.Id,
-                Version = 1
+                Version = 1,
+                UncommittedEvents = Apply(@event)
             };
         }
 

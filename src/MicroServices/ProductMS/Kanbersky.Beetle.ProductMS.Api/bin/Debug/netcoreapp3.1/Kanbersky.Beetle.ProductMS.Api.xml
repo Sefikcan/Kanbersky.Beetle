@@ -4,6 +4,11 @@
         <name>Kanbersky.Beetle.ProductMS.Api</name>
     </assembly>
     <members>
+        <member name="T:Kanbersky.Beetle.ProductMS.Api.Controllers.ProductsController">
+            <summary>
+            
+            </summary>
+        </member>
         <member name="M:Kanbersky.Beetle.ProductMS.Api.Controllers.ProductsController.#ctor(MediatR.IMediator)">
             <summary>
             ctor

@@ -5,7 +5,6 @@ using Kanbersky.Beetle.ProductMS.Services.Aggregate.Abstract;
 using Kanbersky.Beetle.ProductMS.Services.DTO.Request;
 using Kanbersky.Beetle.ProductMS.Services.DTO.Response;
 using MediatR;
-using System;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -25,7 +24,14 @@ namespace Kanbersky.Beetle.ProductMS.Services.Commands
     {
         public CreateProductCommandValidator()
         {
+            RuleFor(c => c.Name)
+                .MaximumLength(100);
 
+            RuleFor(c => c.Quantity)
+                .GreaterThan(0);
+
+            RuleFor(c => c.Price)
+                .GreaterThan(0);
         }
     }
 

@@ -2,6 +2,7 @@
 using Kanbersky.Beetle.Infrastructure.EventSourcing.Abstract;
 using Kanbersky.Beetle.Infrastructure.EventSourcing.Entities;
 using Kanbersky.Beetle.Infrastructure.EventStore.Abstract;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -60,9 +61,21 @@ namespace Kanbersky.Beetle.Infrastructure.EventSourcing.Concrete
                 await action(message);
         }
 
-        public Task<IEnumerable<StoreMessage>> GetEvents(Guid aggregateId, int? version = null, DateTime? createdDate = null)
+        public async Task<IEnumerable<StoreMessage>> GetEvents(Guid aggregateId, int? version = null, DateTime? createdDate = null)
         {
-            throw new NotImplementedException();
+            var query = _store.GetQueryable();
+            query = query.Where(c => c.AggregateId == aggregateId);
+
+            if (version.HasValue)
+                query = query.Where(c => c.Version == version.Value);
+
+            if (version.HasValue)
+                query = query.Where(c => c.Version == version.Value);
+
+            if (createdDate.HasValue)
+                query = query.Where(c => c.CreatedDate == createdDate.Value);
+
+            return query.AsEnumerable();
         }
 
         public async Task Store<TAggregate>(TAggregate aggregate, Func<StoreMessage, Task> action = null) where TAggregate : IAggregate

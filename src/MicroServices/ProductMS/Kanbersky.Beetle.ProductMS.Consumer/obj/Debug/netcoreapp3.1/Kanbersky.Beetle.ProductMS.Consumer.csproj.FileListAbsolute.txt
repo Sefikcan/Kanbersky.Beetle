@@ -37,3 +37,9 @@ D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductM
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Domain.Shared.pdb
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.csprojAssemblyReference.cache
 D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\obj\Debug\netcoreapp3.1\Kanbersky.Beetle.ProductMS.Consumer.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Beetle\src\MicroServices\ProductMS\Kanbersky.Beetle.ProductMS.Consumer\bin\Debug\netcoreapp3.1\Kanbersky.Beetle.Core.xml
